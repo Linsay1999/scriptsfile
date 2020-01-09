@@ -12,3 +12,10 @@ do
   sleep 3
 
 done
+
+for items in $(awk -F '{print $1}' /etc/passwd
+do
+
+  echo "The username is $items"
+  sleep #
+done
