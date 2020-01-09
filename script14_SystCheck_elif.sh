@@ -3,7 +3,7 @@
 # Description: System Inventory
 # Author: Alfred
 # Date: Oct.2019
-
+# Ref.: W10D1
 
 ## Checking if User is root
 
